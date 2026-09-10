@@ -24,11 +24,12 @@ Gameplay • Systems • UI • Tools
 ### Mighty Yell
 **Junior Unity Programmer · 2025–2026**
 
-Worked on *Barbie Rewind*, contributing to UI programming, data management, troubleshooting, architecture, and codebase management.
+Worked on *Barbie Rewind*(https://atari.com/products/barbie-rewind-game-doll), contributing to UI programming, prototyping, data management, troubleshooting, architecture, and codebase management.
 
 ### Vibe Labs
 **Game Designer · 2025**
 
+Worked on *DragonMage: Roguelike Survivor* for Android, and *Animal Scouts* for PC/mobile. 
 Worked on game balance, weapon design, and prototype features.
 
 ---

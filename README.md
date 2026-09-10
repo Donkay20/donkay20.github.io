@@ -10,16 +10,12 @@ Gameplay • Systems • UI • Tools
 ### Stuck At Lv. 1
 **Lead Programmer / Game Director**
 
-2D action roguelike developed over two semesters at York University.
-
-[PLAY] [GITHUB]
+[PLAY](https://donkay20.itch.io/stuck-at-lv-1) · [GITHUB](https://github.com/Donkay20/StuckAtLv1)
 
 ### Trend Hopper
 **Lead Programmer**
 
-2D dress-up rhythm game developed at York University.
-
-[PLAY] [GITHUB]
+[PLAY](https://elliag.itch.io/trend-hopper) · [GITHUB](https://github.com/Donkay20/Trend-Hopper)
 
 ---
 
@@ -43,4 +39,4 @@ Worked on game balance, weapon design, and prototype features.
 
 ---
 
-[Resume] · [LinkedIn] · [GitHub] · [itch.io]
+[LinkedIn](https://www.linkedin.com/in/marcus-sett/) · [GitHub](https://github.com/Donkay20?tab=repositories) · [itch.io](https://donkay20.itch.io/)
